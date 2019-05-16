@@ -16,7 +16,6 @@ NLTK is one of the most popular Python packages for Natural Language Processing 
 |[3.3 Creating a POS Tagger](3-3-Creating-a-POS-Tagger.ipynb)<br>*Creating a Parts Of Speech tagger*|
 |[3.4 Parts of Speech and Meaning](3-4-Parts-of-Speech-and-Meaning.ipynb)<br>*Exploring awesome features offered by WordNet*|
 |[4.1 Name Gender Identifier](4-1-Name-Gender-Identifier.ipynb)<br>*Building a classifier that guesses the gender of a name*|
-|[4.2 Classifying News Documents into Categories](4-2-Classifying-News-Documents-into-Categories.ipynb)<br>*Building a classifier that guesses the category of a news item*|
 |[5.1 Sentiment Analysis](5-1-Sentiment-Analysis.ipynb)<br>*Is a movie review positive or negative?*|
 |[5.2 Sentiment Analysis with nltk.sentiment.SentimentAnalyzer and VADER tools](5-2-Sentiment-Analysis-with-nltk.sentiment.SentimentAnalyzer-and-VADER-tools.ipynb)<br>*More sentiment analysis!*|
 |[6.1 Twitter Stream (and Cleaning Tweets)](6-1-Twitter-Stream-and-Cleaning-Tweets.ipynb)<br>*Live-stream tweets from Twitter*|
